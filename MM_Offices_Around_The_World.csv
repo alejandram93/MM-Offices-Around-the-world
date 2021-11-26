@@ -1,0 +1,147 @@
+FID,Shape *,kml_addres,kml_id,Latitude,Longitud,OfficeName,Country
+0,Point ZM, ,kml_1,144.949906,-37.821016,Melbourne,AUS
+1,Point ZM, ,kml_2,151.204226,-33.870186,Sydney,AUS
+2,Point ZM,"4-5 Union Terrace, Aberdeen AB10 1NJ, UK",kml_3,-2.103146,57.145964,Aberdeen,GBR
+3,Point ZM,"Spring Bank House, 33 Stamford St, Altrincham WA14 1ES, UK",kml_4,54.364017,24.490816,Abu Dhabi,ARE
+4,Point ZM, ,kml_5,-2.347197,53.3896,Altrincham,GBR
+5,Point ZM, ,kml_6,5.897629,51.986395,Arnhem,NLD
+6,Point ZM, ,kml_7,-84.346564,33.931416,Atlanta,USA
+7,Point ZM, ,kml_8,100.573752,13.769677,Bangkok,THA
+8,Point ZM,"6th Floor, The Boat, 49 Queen's Square, Belfast BT1 3FG, UK",kml_9,-5.922718,54.600885,Belfast,GBR
+9,Point ZM, ,kml_10,149.187377,-35.311488,Canberra,AUS
+10,Point ZM,"12 Creek St, Brisbane City QLD 4000",kml_11,153.029714,-27.468532,Brisbane,AUS
+11,Point ZM,"22 King William St, Adelaide SA 5000",kml_12,138.599884,-34.922409,Adelaide,AUS
+12,Point ZM,"22 King William St, Adelaide SA 5000",kml_13,174.756202,-36.843057,Auckland,NZL
+13,Point ZM,"Level 5/139 The Terrace, Wellington Central, Wellington 6011, New Zealand",kml_14,174.77453,-41.284051,Wellington,NZL
+14,Point ZM,"Hong Kong, Kwun Tong, Kwun Tong Rd, 348?3/F, International Trade Tower",kml_15,114.217056,22.315155,Hong Kong,HKG
+15,Point ZM,"3rd Floor, 68-72 GV Towers, Kodigehalli Main Rd, Sahakar Nagar, Bengaluru, Karnataka 560092, India",kml_16,77.585087,13.05835,Bengaluru,IND
+16,Point ZM,"35 Newhall St, Birmingham B3 3PU, UK",kml_17,-1.902281,52.481809,Birmingham,GBR
+17,Point ZM," The Found Riverside Industrial Estate, Marsh Ln, Boston PE21 7PJ, UK",kml_18,-0.02247,52.96485,Boston - Westwood,GBR
+18,Point ZM,"Victory House, Trafalgar Pl, Brighton BN1 4FY, UK",kml_19,-0.139628,50.829801,Brighton,GBR
+19,Point ZM,"27 Clifton Rd, Cambridge CB1 7EB, UK",kml_20,0.137803,52.191607,Cambridge,GBR
+20,Point ZM,"10 Fleet Pl, London EC4M 7RB, UK",kml_21,-0.103562,51.515049,London - Fleet Place,GBR
+21,Point ZM,"Voyager House, 30-32 Wellesley Rd, Croydon CR0 2AD, UK",kml_22,-0.09819,51.37674,Croydon,GBR
+22,Point ZM,"Mountbatten House, Grosvenor Square, Southampton SO15, UK",kml_23,-1.406629,50.910952,Southampton,GBR
+23,Point ZM,"Moray House, 16-18 Bank St, Inverness IV1 1QY, UK",kml_24,-4.228172,57.479032,Inverness,GBR
+24,Point ZM,"Floor 1, 12 Blenheim Pl, Edinburgh EH7 5JH, UK",kml_25,-3.182966,55.9572,Edinburgh,GBR
+25,Point ZM,"St Vincent Plaza, 319 St Vincent St, Glasgow G2 5LD, UK",kml_26,-4.269259,55.862625,Glasgow,GBR
+26,Point ZM,"10 Temple Back, Redcliffe, Bristol BS1 6FL, UK",kml_27,-2.586231,51.453322,Bristol,GBR
+27,Point ZM,"Ap 05, Strada Traian 246, Etaj 3, Bucure?ti 024046, Romania",kml_28,26.120493,44.443123,Bucharest,ROU
+28,Point ZM,"Budapest, Váci út 45, 1134 Hungary",kml_29,19.066574,47.527939,Budapest,HUN
+29,Point ZM,"8001, Foreshore, Cape Town, 8001, South Africa",kml_30,18.427095,-33.919583,Cape Town,ZAF
+30,Point ZM,"2 Callaghan Square, Cardiff CF10 5BT, UK",kml_31,-3.173894,51.476223,Cardiff,GBR
+31,Point ZM,"1435 W Morehead St Suite 140, Charlotte, NC 28208",kml_32,-80.864454,35.228111,Charlotte,USA
+32,Point ZM,"903 Hay St, Fayetteville, NC 28305",kml_33,-78.895294,35.055922,Fayetteville,USA
+33,Point ZM,"1101 Haynes St #101, Raleigh, NC 27604",kml_34,-78.637773,35.794758,Raleigh,USA
+34,Point ZM,"7621 Purfoy Rd Suite 115, Fuquay-Varina, NC 27526",kml_35,-78.772798,35.589914,Fuquay-Varina,USA
+35,Point ZM,"2343 Alexandria Dr STE 320, Lexington, KY 40504",kml_36,-84.551018,38.018281,Lexington,USA
+36,Point ZM,"4245 Fairfax Dr #800, Arlington, VA 22203",kml_37,-77.112312,38.882628,Arlington,USA
+37,Point ZM,"201 Pennsylvania S #400, Charleston, WV 25302",kml_38,-81.645327,38.358157,Charleston,USA
+38,Point ZM,"34 Commerce Dr Suite 106, Morgantown, WV 26501",kml_39,-79.986594,39.628629,Morgantown,USA
+39,Point ZM,"100 EverGreene Dr #104, Waynesburg, PA 15370",kml_40,-80.125828,39.90399,Waynesburg,USA
+40,Point ZM,"10 S LaSalle St #2520, Chicago, IL 60603",kml_41,-87.632908,41.881562,Chicago,USA
+41,Point ZM,"18013 Cleveland Pkwy #200, Cleveland, OH 44135",kml_42,-81.823462,41.424297,Cleveland,USA
+42,Point ZM,"438 Main St #300, Buffalo, NY 14202",kml_43,-78.874673,42.886077,Buffalo,USA
+43,Point ZM,"Two Allegheny Center Nova Tower 2, Suite 802, Pittsburgh, PA 15212",kml_44,-80.007377,40.453786,Pittsburgh,USA
+44,Point ZM,"5 Woodland Rd W, Colwyn Bay LL29 7DH, UK",kml_45,-3.727957,53.294878,"Colwyn Bay
+",USA
+45,Point ZM,"Ground Floor, Liver Bldg, Pier Head, Liverpool L3 1JH, UK",kml_46,-2.996257,53.405701,Liverpool,USA
+46,Point ZM,"5 Eastgate Ave, Castleview, Cork, T45 EE72, Ireland",kml_47,-8.365495,51.903177,Cork,IRL
+47,Point ZM,"A-20, Udhyog Marg, A Block, Sector 2, Noida, Uttar Pradesh 201301, India",kml_48,77.314793,28.587989,Delhi-Noida,IND
+48,Point ZM,"Pentagon House, Sir Frank Whittle Rd, Derby DE21 4XA, UK",kml_49,-1.464631,52.926892,Derby,GBR
+49,Point ZM, ,kml_50,51.515099,25.304546,Doha,QAT
+50,Point ZM,"Rockfield, Dundrum, Dublin 16, Ireland",kml_51,-6.235931,53.285687,Dublin,IRL
+51,Point ZM, ,kml_52,-13.235362,8.449521,Freetown,SLE
+52,Point ZM,"Gamma Building, Norwida 4, 80-280 Gda?sk, Poland",kml_53,18.591501,54.383578,Gdansk,POL
+53,Point ZM,"Prosta 68, 00-838 Warszawa, Poland",kml_54,20.981702,52.23054,Warszawa,POL
+54,Point ZM,"Via Enrico Albareto, 31, 16154 Genova GE, Italy",kml_55,8.854741,44.421472,Genova,ITL
+55,Point ZM,"Wheatfield Way, Hinckley LE10 1YG, UK",kml_56,-1.378341,52.555957,Hinckley,GBR
+56,Point ZM,"1585 Sawdust Rd # 175, The Woodlands, TX 77380",kml_57,-95.467354,30.122916,Houston,USA
+57,Point ZM,"111 S Wood Ave, Iselin, NJ 08830",kml_58,-74.324837,40.563408,Iselin,USA
+58,Point ZM,"World Trade Centre 3 - Level 29, Jl. Jend. Sudirman, RT.8/RW.3, Kuningan, Karet, Jakarta, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",kml_59,106.820985,-6.214669,Jakarta,IDN
+59,Point ZM,"Alice Lane - Building 1, Fredman Dr, Sandhurst, Sandton, 2196, South Africa",kml_60,28.050173,-26.106548,Johannesburg,ZAF
+60,Point ZM,"Level 6, Tower, 11, Avenue 5, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",kml_61,101.668099,3.111597,Kuala Lumpur,MYS
+61,Point ZM,"152 Beach Road, #35-00, The Gateway East, Beach Rd, Singapore 189721",kml_62,103.859401,1.298874,Singapore,SGP
+62,Point ZM,"Al Jazeera 1st Floor, 40 Khalid Ibn Al Waleed St, Al Kuwayt, Kuwait",kml_63,47.989196,29.375264,Kuwait,KWT
+63,Point ZM,"6GPQ+G6Q, Seef, Bahrain",kml_64,50.538104,26.236336,Seef,BHR
+64,Point ZM,"1000 Wilshire Blvd UNIT 400, Los Angeles, CA 90017",kml_65,-118.261016,34.050681,Los Angeles,USA
+65,Point ZM,"165 S Union Blvd Ste 200, Lakewood, CO 80228",kml_66,-105.134575,39.712936,Lakewood,USA
+66,Point ZM,"Floor 3, 1, Whitehall, Riverside Way, Leeds LS1 4BN, UK",kml_67,-1.553991,53.794793,Leeds,GBR
+67,Point ZM,"Bank house, 27 King St, Leeds LS1 2HL, UK",kml_68,-1.550743,53.797144,Leeds - Bank House,GBR
+68,Point ZM,"Greenhead, Lerwick, Shetland ZE1 0PY, UK",kml_69,-1.167398,60.181342,Lerwick,GBR
+69,Point ZM,"P.º de la Castellana, 79, Planta 7, 28046 Madrid, Spain",kml_70,-3.691971,40.447494,Madrid,ESP
+70,Point ZM,"Fourth floor, 9 Portland St, Manchester M1 3BE, UK",kml_71,-2.235702,53.480121,Manchester,GBR
+71,Point ZM,"Winchester Building, South Avenue, Road, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076, India",kml_72,72.912737,19.11228,Mumbai,IND
+72,Point ZM,"4203 Way, Muscat, Oman",kml_73,58.554062,23.595045,Muscat,OMN
+73,Point ZM,"1400 Broadway 21st Floor, New York, NY 10018",kml_74,-73.98669,40.752877,New York City,USA
+74,Point ZM,"6th Floor, Time central, 32 Gallowgate, Newcastle upon Tyne NE1 4SN, UK",kml_75,-1.618875,54.974267,Newcastle,GBR
+75,Point ZM,"Spooner Cl, Coedkernew, Marshfield, Newport NP10 8FZ, UK",kml_76,-3.044652,51.557316,Newport - Ty Awen,GBR
+76,Point ZM,"2, 69-75 Thorpe Rd, Norwich NR1 1UA, UK",kml_77,1.319206,52.624801,Norwich,GBR
+77,Point ZM, ,kml_78,-0.24053,52.569499,Peterborough,GBR
+78,Point ZM,"One Valpy, 20 Valpy St, Reading RG1 1AR, UK",kml_79,-0.968922,51.457199,Reading,GBR
+79,Point ZM,"5295 Commerce Dr, Murray, UT 84107",kml_80,-111.89967,40.655373,Salt Lake City,USA
+80,Point ZM,"12647 Alcosta Blvd, San Ramon, CA 94583",kml_81,-121.959573,37.772804,San Ramon,USA
+81,Point ZM,"5 Spectrum Business Park, Seaham SR7 7PS, UK",kml_82,-1.328535,54.825523,Seaham,GBR
+82,Point ZM,"4th Floor, Derwent House, 150 Arundel Gate, Sheffield City Centre, Sheffield S1 2JY, UK",kml_83,-1.469767,53.377993,Sheffield,GBR
+83,Point ZM,"Lamledge Lane, Shifnal TF11 8SD, UK",kml_84,-2.360992,52.664718,Shifnal,GBR
+84,Point ZM,"Keighley Rd, Skipton BD23 2QR, UK",kml_85,-2.015294,53.94748,Skipton,GBR
+85,Point ZM,"ul. ""Nikolay V. Gogol"" 9, ??. 2, 1124 g.k. Yavorov, Sofia, Bulgaria",kml_86,23.34167,42.68915,Sofia,BGR
+86,Point ZM,"800 Westchester Ave suite n-641, Rye Brook, NY",kml_87,-73.690305,41.006399,Tarrytown,USA
+87,Point ZM,"4th Floor, ???-?-13 ????? ??? ??? 103-0023, Japan",kml_88,139.777572,35.685172,Tokio,JPN
+88,Point ZM,"145 Wellington St W Suite 400, Toronto, ON M5J 1H8, Canada",kml_89,-79.385012,43.646007,Toronto,CAN
+89,Point ZM,"134 Capital Dr suite d, West Springfield, MA 01089",kml_90,-72.619682,42.136763,West Springfield,USA
+90,Point ZM,"Heritage Court, Lower Bridge St, Chester CH1 1RD, UK",kml_91,-2.890713,53.187699,Chester,GBR
+91,Point ZM,"Bentall 5, 550 Burrard St #1888, Vancouver, BC V6C 2B5, Canada",kml_92,-123.118222,49.285814,Vancouver,CAN
+92,Point ZM,"Saviour House, 9 St Saviourgate, York YO1 8NQ, UK",kml_93,-1.078437,53.959658,York,GBR
+93,Point ZM, ,kml_94,-2.992494,53.04304,Wrexham,GBR
+94,Point ZM,"33 Av. de la République, 75011 Paris, France",kml_95,2.373145,48.86575,Paris,FRA
+95,Point ZM,"Av. Treze de Maio, 13 - Centro, Rio de Janeiro - RJ, 20031-007, Brazil",kml_96,-43.177024,-22.90949,Rio de Janeiro,BRA
+96,Point ZM,"Unit 10, “Skanderbeg” Street, Building no.6, Entrance no. 2, Apartment no 11, Tiranë, Albania",kml_97,19.818698,41.327546,Tirana,ALB
+97,Point ZM,"Nur Empory, Level 6, Plot Block M,, 77 Rd No. 11, Dhaka 1212, Bangladesh",kml_98,90.409825,23.790256,Bangladesh,BGD
+98,Point ZM,"7 Ave SW, Calgary, AB, Canada",kml_99,-114.073865,51.04679,Calgary,CAN
+99,Point ZM, ,kml_100,121.436608,31.187649,Beijing,CHN
+100,Point ZM,"Urban Plaza, Cl. 90 No. 11-13 Oficina 408, Bogotá, Colombia",kml_101,-74.049244,4.672211,Bogota,COL
+101,Point ZM, ,kml_102,15.266293,-4.441931,Kinshasa,COD
+102,Point ZM," 15, Národní 984, Staré M?sto, 110 00 Praha-Praha 1, Czechia",kml_103,14.416851,50.081896,Brno-Jaselska,CZE
+103,Point ZM, ,kml_104,31.235712,30.04442,Cairo?,EGY
+104,Point ZM,"Amsterdamseweg 15, 6814 CM Arnhem",kml_105,5.897629,51.986395,Arnhem,NLD
+105,Point ZM, ,kml_106,-0.157804,5.642137,East Legon,GHA
+106,Point ZM, ,kml_107,78.38215,17.436171,Hyderabad,IND
+107,Point ZM, ,kml_108,77.622109,13.044831,Bangalore,IND
+108,Point ZM, ,kml_109,80.174543,13.021729,Chennai,IND
+109,Point ZM, ,kml_110,36.766705,-1.28327,Nairobi,KEN
+110,Point ZM, ,kml_111,46.674465,24.71151,Riyadh,SAU
+111,Point ZM, ,kml_112,27.484656,-29.319144,Maseru,LSO
+112,Point ZM, ,kml_113,35.018711,-15.794455,Blantyre,MWI
+113,Point ZM, ,kml_114,32.589156,-25.963238,Maputo,MOZ
+114,Point ZM, ,kml_116,85.307281,27.686267,Kathmandu,NPL
+115,Point ZM, ,kml_117,7.496215,9.081613,Abuja,NGA
+116,Point ZM, ,kml_118,30.069769,-1.946758,Kigali,RWA
+117,Point ZM, ,kml_119,31.070794,-29.723516,Umhlanga,ZAF
+118,Point ZM, ,kml_120,28.252767,-25.771319,Pretoria,ZAF
+119,Point ZM, ,kml_121,35.736303,-6.195021,Dodoma,TZA
+120,Point ZM, ,kml_123,32.594854,0.339526,Kampala,UGA
+121,Point ZM, ,kml_124,-81.526506,41.072869,Akron,USA
+122,Point ZM, ,kml_125,-97.827872,30.306547,Austin,USA
+123,Point ZM, ,kml_126,-86.762402,33.405849,Birmingham,USA
+124,Point ZM, ,kml_127,-80.166493,40.27421,Canonsburg,USA
+125,Point ZM, ,kml_128,-74.81594,39.081191,Cape May,USA
+126,Point ZM, ,kml_129,-85.536857,30.779906,Chipley,USA
+127,Point ZM, ,kml_130,-84.508639,39.102183,Cincinnati,USA
+128,Point ZM, ,kml_131,-81.823462,41.424297,Cleveland,USA
+129,Point ZM, ,kml_132,-97.396806,27.797173,Corpus Christi,USA
+130,Point ZM, ,kml_133,-96.769538,32.861633,Dallas,USA
+131,Point ZM, ,kml_134,-80.094609,26.456696,Delray Beach,USA
+132,Point ZM, ,kml_135,-74.255452,40.240027,Freehold,USA
+133,Point ZM, ,kml_136,-89.378806,31.328497,Hattiesburg,USA
+134,Point ZM,"10245 Centurion Pkwy N Suite 320, Jacksonville, FL 32256",kml_137,-81.548587,30.24856,Jacksonville,USA
+135,Point ZM, ,kml_138,-85.677478,30.190424,"Panama City, FL",USA
+136,Point ZM,"Wells Fargo Plaza, 401 B St Suite 1520, San Diego, CA 92101",kml_139,-117.160633,32.717374,San Diego,USA
+137,Point ZM,"155 Montgomery St #1400, San Francisco, CA 94104",kml_140,-122.402511,37.790837,San Francisco,USA
+138,Point ZM,"2077 Gateway Pl #550, San Jose, CA 95110",kml_141,-121.925832,37.371632,San Jose,USA
+139,Point ZM,"1601 5th Ave #850, Seattle, WA 98101",kml_142,-122.337463,47.612441,Seattle,USA
+140,Point ZM,"1545 Raymond Diehl Rd Suite 200, Tallahassee, FL 32308",kml_143,-84.251598,30.500122,Tallahassee,USA
+141,Point ZM,"4200 E Skelly Dr Suite 520, Tulsa, OK 74135",kml_144,-95.929008,36.090785,Tulsa,USA
+142,Point ZM,"2495 Natomas Park Dr Suite 530, Sacramento, CA 95833",kml_145,-121.506746,38.60857,Sacramento,USA
+143,Point ZM,"325 Chestnut St #300, Philadelphia, PA 19106",kml_146,-75.147173,39.94899,Philadelphia,USA
+144,Point ZM," 11019 McCormick Rd Suite 260, Hunt Valley, MD 21031",kml_148,-76.655756,39.486523,Hunt Valley,USA
